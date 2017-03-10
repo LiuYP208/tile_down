@@ -1,0 +1,16 @@
+D:\FILE2016\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.Form1.resources
+D:\FILE2016\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.Properties.Resources.resources
+D:\FILE2016\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.csproj.GenerateResource.Cache
+D:\FILE2016\辅助小程序\切片服务下载\切片服务下载\bin\Debug\切片服务下载.exe
+D:\FILE2016\辅助小程序\切片服务下载\切片服务下载\bin\Debug\切片服务下载.pdb
+D:\FILE2016\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.exe
+D:\FILE2016\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.pdb
+D:\FILE2016\个人练习&测试&其他\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.exe
+D:\FILE2016\个人练习&测试&其他\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.pdb
+D:\FILE2016\个人练习&测试&其他\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.Form1.resources
+D:\FILE2016\个人练习&测试&其他\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.Properties.Resources.resources
+D:\FILE2016\个人练习&测试&其他\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.csproj.GenerateResource.Cache
+D:\FILE2016\个人练习&测试&其他\辅助小程序\切片服务下载\切片服务下载\bin\Debug\切片服务下载.exe
+D:\FILE2016\个人练习&测试&其他\辅助小程序\切片服务下载\切片服务下载\bin\Debug\切片服务下载.pdb
+D:\FILE2016\WEB_TEST\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.exe
+D:\FILE2016\WEB_TEST\辅助小程序\切片服务下载\切片服务下载\obj\x86\Debug\切片服务下载.pdb
