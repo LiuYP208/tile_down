@@ -1,0 +1,12 @@
+{
+  "downloadList": [
+    {
+      "Url": "http://t3.tianditu.com/DataServer?T=vec_c&x={x}&y={y}&l={z}",
+      "UrlName": "天地图文字标注",
+      "FilePath": "tianditu_vec_c",
+      "urlType": "TMS",
+      "threadNum": 3,
+      "Host": "t2.tianditu.com"
+    }
+  ]
+}

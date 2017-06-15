@@ -1,3 +1,11 @@
 {
-  "Url": ""
+  "downloadList": [
+    {
+      "Url": "http://t3.tianditu.com/DataServer?T=cva_w&x={x}&y={y}&l={z}",
+      "UrlName": "天地图文字标注",
+      "FilePath": "tianditu_cva",
+      "urlType": "TMS",
+      "threadNum": 8
+    }
+  ]
 }

@@ -1,0 +1,12 @@
+{
+  "downloadList": [
+    {
+      "Url": "http://t3.tianditu.com/DataServer?T=tbo_w&x={x}&y={y}&l={z}",
+      "UrlName": "天地图文字标注",
+      "FilePath": "tianditu_tbo",
+      "urlType": "TMS",
+      "threadNum": 8,
+      "Host": "t2.tianditu.com"
+    }
+  ]
+}
